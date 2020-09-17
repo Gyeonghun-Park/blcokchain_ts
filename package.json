@@ -1,0 +1,9 @@
+{
+  "name": "blcokchain_ts",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/Gyeonghun-Park/blcokchain_ts",
+  "author": "Gyeonghun PArk <gp112795@gmail.com>",
+  "license": "MIT"
+}
